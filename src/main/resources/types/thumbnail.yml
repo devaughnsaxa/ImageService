@@ -1,0 +1,7 @@
+name: thumbnail
+height : 50
+width : 50
+quality : 75
+scale : CROP
+fillColor : '000000'
+format : JPG
